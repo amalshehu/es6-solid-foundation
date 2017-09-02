@@ -12,3 +12,8 @@ Google's browser supports more than 90% of ES6.Also the transpilers will helps t
 - Box scoping
 - Arrow functions will eliminates the context of a function and gives global view.
 - Won't be able to change the value of this using bind in arrow function.
+- Default function parameters
+- Rest and spread ... with dynamic functions.
+- Object literals
+- for of iteration
+
